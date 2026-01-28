@@ -57,13 +57,13 @@ const messages = [
     "Are you sure bebikow?",
     "Sure ka na talaga??",
     "bakit ayaw mo sakin bebikeyks?",
-    "lablab please...",
-    "Just think about it!",
+    "lablab JIN JIN please...",
     "If you say no, I will be really sad... as in legit",
-    "I will be very sad...",
+    "AYAW MO BA TALAGA???",
     "Just kidding, say yes please! ❤️ parang awa mo na :>",
     "PLEASE PLEASE PLEASE :>",
-    "EDI WAG"
+    "EDI WAG",
+    "WALA KA NA CHOICE YES LANG"
 ];
 
 let messageIndex = 0;
