@@ -61,8 +61,8 @@ const messages = [
     "Just think about it!",
     "If you say no, I will be really sad... as in legit",
     "I will be very sad...",
-    "I will be very very very sad...",
     "Just kidding, say yes please! ❤️ parang awa mo na :>",
+    "PLEASE PLEASE PLEASE :>",
     "EDI WAG"
 ];
 
